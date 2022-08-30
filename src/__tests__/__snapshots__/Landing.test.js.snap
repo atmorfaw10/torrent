@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing page should take a snapshot 1`] = `
+<DocumentFragment>
+  <img
+    alt="landing"
+    src="landing-img.png"
+  />
+  <div
+    class="landing-para"
+  >
+    <h1>
+      Feel the Music
+    </h1>
+    <h3>
+      Stream over 82 million tracks with one click
+    </h3>
+  </div>
+  <button
+    class="landing-buttn"
+    role="button"
+  >
+    Stream Now
+  </button>
+</DocumentFragment>
+`;

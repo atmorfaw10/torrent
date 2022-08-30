@@ -1,0 +1,40 @@
+body {
+  background-image: linear-gradient(to right, white, #141b68);
+}
+
+img {
+  position: relative;
+  margin-left: 122px;
+  margin-top: 162px;
+  width: 570px;
+  height: 400px;
+}
+
+.landing-para {
+  font-family: sans-serif;
+  font-style: normal;
+  margin-left: 800px;
+  margin-top: -300px;
+  color: white;
+}
+
+.landing-para > h1 {
+  margin-bottom: 25px;
+}
+
+.landing-buttn {
+  margin-left: 800px;
+  margin-top: 50px;
+  width: 100px;
+  height: 50px;
+  background-color: #141b68;
+  color: white;
+  border-radius: 11px;
+  transition-duration: 0.4s;
+  border: none;
+}
+
+.landing-buttn:hover {
+  background-color: white;
+  color: #141b68;
+}
